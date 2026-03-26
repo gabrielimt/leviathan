@@ -1,0 +1,30 @@
+#logo{
+    color: var(--texto-destaque);
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 5px 0 10px #000;
+    background-color: #111;
+}
+
+nav{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+#profiles{
+    display: flex;
+    align-items: center;
+}
+
+.nav_link{
+    color: var(--texto-claro);
+    text-decoration: none;
+}
+
+.nav_link:hover{
+    color: var(--texto-destaque);
+}
