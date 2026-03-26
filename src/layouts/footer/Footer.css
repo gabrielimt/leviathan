@@ -1,7 +1,6 @@
 footer{
   box-shadow: var(--sombra-pcima);
   background-color: #111;
-  height: 80px;
   display: flex;
   justify-content: center;
 }

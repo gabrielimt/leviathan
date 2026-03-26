@@ -18,11 +18,5 @@ body{
   display: grid;
   grid-template-rows: 80px 1fr auto;
   grid-template-columns:100%;
-
-  /* fallback height */
   min-height:100vh;
-}
-
-main{
-  height: 10px;
 }
